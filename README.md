@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello there !
 
-<!--
-**Yekuuun/Yekuuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```C
+#include <brain.h>;
 
-Here are some ideas to get you started:
+int main() {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 📍 From somewhere
+  - 👀 Greatly interested by system internals
+  - ⚙️ Currently working on personnal projects
+  - 📚 Currently learning C, C# and Assembly languages
+  
+  printf("Welcome to my profile !");
+  return 0;
+  
+}
+  
+```
