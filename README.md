@@ -1,4 +1,8 @@
-## Hello there 🐱‍👤
+## Hello there 🐺
+
+<p align="center">
+  <img align="center" width="100%"  height="400px" alt="GIF" src="https://media.giphy.com/media/SaX384PjtDl2U/giphy.gif"/>
+</p>
 
 ```C
 #include <brain.h>;
@@ -24,7 +28,3 @@ int main() {
 [![](https://visitcount.itsvg.in/api?id=yekuuun&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="center">
-  <img align="center" width="100%"  height="400px" alt="GIF" src="https://media.giphy.com/media/SaX384PjtDl2U/giphy.gif"/>
-</p>
