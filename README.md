@@ -1,19 +1,23 @@
 ## Hello there 🦝
 
-```C
-#include <brain.h>;
+```C#
+using System.Brain;
 
-int main(int argc, char *argv[]) {
-
-  - 📍  Home desktop
-  - 👀 Greatly interested by Windows & Sys internals
-  - ⚙️ Currently working on personnal projects
-  - 💻 Programming daily in C#, C and Javascript
-  - 📚 Currently learning C, C# and system architecture
-  
-  printf("Welcome to my profile !");
-  return 0;
-  
+namespace Github
+{
+    class Profile
+    {
+        static void Main(string[] args)
+        {
+            - 📍  Home desktop
+            - 👀 Greatly interested by Windows & Sys internals
+            - ⚙️ Currently working on personnal projects
+            - 💻 Programming daily in C#, C and Javascript
+            - 📚 Currently learning C, C# and system architecture
+            
+            Console.WriteLine("Welcome to my profile !");
+        }
+    }
 }
   
 ```
