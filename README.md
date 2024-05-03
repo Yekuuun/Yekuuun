@@ -14,5 +14,3 @@ Hi, I'm Yekuuun aka Fulltime geek ✨
 
 
 ```
-<hr>
-
