@@ -5,12 +5,11 @@
 Hi, I'm Yekuuun aka Fulltime geek ✨
 
 @@ cyber security & malwares @@
-  - 📍  Home desktop
+  - 📍  Away.
   - 👀 Greatly interested by Windows internals & Malwares
   - ⚙️ Currently working on personnal projects
   - 💻 Programming daily in C#, C, C++ & Javascript
   - 📚 Currently learning system architectures & security
   - 📧 yekuuun@proton.me
-
 
 ```
