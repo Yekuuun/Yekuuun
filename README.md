@@ -15,5 +15,13 @@ Hi, I'm Yekuuun aka Fulltime geek ✨
 
 ```
 
-<br>
+<hr>
+
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Yekuuun&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" align="left" width="50%" height="200" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yekuuun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="40%" height="200" />
+  
+</div>
+
 
