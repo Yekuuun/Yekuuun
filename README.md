@@ -1,15 +1,15 @@
-<img align="left" height="234" src="./giphy.gif"/>
+**Hi everyone** 👋
 
+I'm Yekuuun. Greatly interested by Windows internals, malwares & offensive tools. I'm currently building offensive tools in [Nightfall organisation](https://github.com/NightFall-Security) & developping new platform for content creators [Tweetz](https://github.com/tweetz-official).
 
-```diff
-Hi, I'm Yekuuun aka Fulltime geek ✨
+Feel free to contact me on `yekuuun@proton.me` or disord `mrcandieee`
 
-@@ cyber security & malwares @@
-  - 📍  Away.
-  - 👀 Greatly interested by Windows internals & Malwares
-  - ⚙️ Currently working on personnal projects
-  - 💻 Programming daily in C#, C, C++ & Javascript
-  - 📚 Currently learning system architectures & security
-  - 📧 yekuuun@proton.me
+---
 
-```
+**Tools I use** 🔧
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,ts,git,linux,windows,visualstudio,vscode,docker" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Yekuuun)
