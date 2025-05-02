@@ -6,7 +6,7 @@ Feel free to contact me on `yekuuun@proton.me` or disord `mrcandieee` ;)
 
 ---
 
-**My tech stack** 🔧
+**My tech stack** ⚡
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,ts,react,bash,git,linux,windows,visualstudio,vscode,docker" />
 
