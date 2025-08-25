@@ -1,6 +1,6 @@
 **Hi everyone** 👋
 
-I'm Yekuuun. Greatly interested by Windows internals, malwares & offensive tools. I'm currently building offensive tools in [Nightfall organisation](https://github.com/NightFall-Security) & developping a new platform for content creators [Tweetz](https://github.com/tweetz-official).
+I'm Yekuuun. Greatly interested by Windows internals, red teaming, malwares & offensive tools. I'm currently building offensive tools in [Nightfall organisation](https://github.com/NightFall-Security) & playing CTF's on HackTheBox.
 
 Feel free to contact me on `yekuuun@proton.me` or disord `mrcandieee` ;)
 
@@ -8,7 +8,7 @@ Feel free to contact me on `yekuuun@proton.me` or disord `mrcandieee` ;)
 
 **My tech stack** ⚡
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,ts,react,bash,git,linux,windows,visualstudio,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,ts,react,bash,git,linux,windows,docker,visualstudio,vscode,rider" />
 
 <br>
 
