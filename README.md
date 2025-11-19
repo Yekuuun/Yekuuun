@@ -1,8 +1,8 @@
 **Hi everyone** 👋
 
-I'm Yekuuun. Greatly interested by Windows internals, red teaming, malwares & offensive tools. I'm currently building offensive tools in [Nightfall organisation](https://github.com/NightFall-Security), building VOIP solutions for [Belgium Provider](https://github.com/belgium-provider) & playing CTF's on HackTheBox.
+I'm Yekuuun. Greatly interested by sys internals, red teaming, malwares & offensive tools. I'm currently working on personnal projects, playing CTF's on HackTheBox & learning linux kernel development.
 
-Feel free to contact me on `yekuuun@proton.me` or discord `mrcandieee` ;)
+Feel free to contact me on discord `mrcandieee` ;)
 
 ---
 
