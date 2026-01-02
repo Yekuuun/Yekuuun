@@ -1,15 +1,16 @@
-**Hi everyone** 👋
+<div align=center>
+  <h1>Hello there, I'm Yekuuun ! 👋</h1>
+  
+  <p>Greatly interested by sys internals, red teaming, malwares & offensive tools</p> 
+</div>
 
-I'm Yekuuun. Greatly interested by sys internals, red teaming, malwares & offensive tools. I'm currently working on personnal projects, playing CTF's on HackTheBox & learning linux kernel development.
 
-Feel free to contact me on discord `mrcandieee` ;)
+<img src="./giphy.gif" align="right" width="200">
 
----
 
-**My tech stack** ⚡
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,ts,react,bash,git,linux,windows,docker,visualstudio,vscode,rider" />
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=Yekuuun)
+**Stuff about me**
+- I'm fullstack developpper using React/TS, C#, MSSQL server & Docker as primary stack.
+- I'm owner of CWES from HTB as web penetration tester.
+- I'm greatly interessted by sys internals, low level development & linux OS & kernel dev.
+- I also use C/C++ in my free time
+- I'm currently working on personnal projects.
